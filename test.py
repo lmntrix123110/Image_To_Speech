@@ -1,3 +1,13 @@
+#In command prompt enter
+#pip install pyautogui
+#pip install pyttsx3
+#pip install pytesseract
+#pip install pillow
+
+#intall Tesseract-OCR externally and remember the path
+
+#copy the png name after screenshot and paste in 'Image.open("png_name.png")'
+
 import pyautogui
 import pyttsx3
 from PIL import Image
