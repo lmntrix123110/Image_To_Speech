@@ -5,7 +5,7 @@
 #pip install pillow
 
 #intall Tesseract-OCR externally and copy the path and paste it in 
-pytesseract.tesseract_cmd = r'Paste_the_location_here\tesseract.exe'
+#pytesseract.tesseract_cmd = r'Paste_the_location_here\tesseract.exe'
 
 
 #copy the png name after screenshot and paste in 'Image.open("png_name.png")'
